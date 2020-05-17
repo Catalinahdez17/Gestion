@@ -35,9 +35,9 @@
 -  `git pull` : Descargar los cambios recientes que se le han hechos al repositorio
 
 4. **creacion de usuerio y correo**
-+git config --global user.name "Catalinahdez17"
+-git config --global user.name "Catalinahdez17"
 
-+git config --global user.email catalinahdez1246@gmail.com  loguearse
+-git config --global user.email catalinahdez1246@gmail.com  loguearse
 
 5. **creacion de carpetas**
 +mkdir Gestión
@@ -45,5 +45,14 @@
 
 **archivo de texto**
 + **vi index.txt** alli editamos el archivo con "a", guardamos los cambios con :w despues de esto salimos con :wq
+
+* en la misma carpeta Gestión creamos un archivo de texto INDEX, y una carpeta llamada CH y dentro de esta un archivo de texto llamado CH.
+
+**creacion de carpeta CH**
++mkdir CH
++cd CH
++vi CH
+ 
+Salimos de esta carpeta con  el comando cd ..
 
 
