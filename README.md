@@ -1,5 +1,5 @@
 # Gestion
-## **Operaciones básicas de adminitración de repositorios**
+## **Operaciones básicas de administración de repositorios**
 
 # ***Para que sirve el repositorio en github***
 
