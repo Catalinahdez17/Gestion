@@ -24,7 +24,7 @@
 - `git config --global user.email catalinahdez1246@gmail.com`  
 
 4- ***Creación de carpetas***
-+ `mkdir Gestión`
++ `mkdir Gestion`
 +  `cd Gestion/`
 
 ***Archivo de texto***
