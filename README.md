@@ -5,7 +5,16 @@
   
  - **Repositorio**: Es un espacio donde se almacenan distintas cosas. Se puede guardar material fisico o simbólico, pero en este caso se almacena información digital.  
    
-- **Git**: Gestiona el repositorio y añade datos dentro del repositorio trabajado. Es facil de usar y permite multiples flujos de trabajo,
+- **Git**: Gestiona el repositorio y añade datos dentro del repositorio trabajado. Es facil de usar y permite multiples flujos de trabajo.
+
+**Para que sirve el repositorio en github**
+
+> GitHub aloja tu repositorio de código y te brinda herramientas muy útiles para el trabajo en equipo, dentro de un proyecto.
+
+>	Además de eso, puedes contribuir a mejorar el software de los demás. Para poder alcanzar esta meta, GitHub provee de funcionalidades para hacer un fork y solicitar pulls.
+
+> Realizar un fork es simplemente clonar un repositorio ajeno (genera una copia en tu cuenta), para eliminar algún bug o modificar cosas de él. Una vez realizadas tus modificaciones puedes enviar un pull al dueño del proyecto. Éste podrá analizar los cambios que has realizado fácilmente, y si considera interesante tu contribución, adjuntarlo con el repositorio original.
+
     
 2- ***Procedimiento***
   + Una vez creado el repositorio, copiamos la dirección de nuestro repositorio, esta se encuentra en la parte superior, en *"clone or download"*. Copiamos la dirección https://github.com/Catalinahdez17/Gestion.git: e ingresamos a git y utilizamos el comando `git clone`seguido del enlace.
@@ -83,6 +92,7 @@ volvemos a quedar en la carpeta Gestion y alli se ejecutamos los siguiente coman
 
 -  `git pull` : Descargar los cambios recientes que se le han hechos al repositorio
 
+
 **comandos mas utilizados en github**
 -	**git help** Muestra una lista con los comandos más utilizados en GIT.
 
@@ -94,7 +104,7 @@ volvemos a quedar en la carpeta Gestion y alli se ejecutamos los siguiente coman
 -	**git merge** nombre de branch Hace un merge entre dos branches, en este caso la dirección del merge sería entre el branch que indiquemos en el comando, y el branch donde estemos ubicados.
 -	**git push origin** nombre de branch  Luego de que hicimos un git commit, si estamos trabajando remotamente, este comando va a subir los archivos al repositorio remoto, específicamente al branch que indiquemos.
 -	**git pull origin** nombre de branch  Hace una actualización en nuestro branch local, desde un branch remoto que indicamos en el comando.
--	
+
 
 
 
