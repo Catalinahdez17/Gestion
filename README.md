@@ -58,11 +58,11 @@ volvemos a quedar en la carpeta Gestion y alli se ejecutamos los siguiente coman
 
 -  `git commit -m "Commit 1" ` : Guardar copia local de los cambios que se hicieron en el repositorio
 
+![alt text](https://github.com/Catalinahdez17/Gestion/blob/master/git%20commit%201.PNG)
+
 -  `git log` : Ver los commits que se han hecho recientemente 
 
 -  `git push ` : Subir cambios al repostorio
-
-![alt text](https://github.com/Catalinahdez17/Gestion/blob/master/git%20commit%201.PNG)
 
 -  `git pull` : Descargar los cambios recientes que se le han hechos al repositorio
 
