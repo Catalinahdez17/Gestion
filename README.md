@@ -54,7 +54,7 @@ volvemos a quedar en la carpeta Gestion y alli se ejecutamos los siguiente coman
  
  - `git add -A` : Agregar archivos que se van a agregar a nuestro repositorio 
 
--  `git status` : Permite ver los archivos que seran agregados al repositorios
+-  `git status` : Permite ver los archivos que seran agregados al repositorio
 
 -  `git commit -m "Commit 1" ` : Guardar copia local de los cambios que se hicieron en el repositorio
 
