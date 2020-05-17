@@ -53,8 +53,12 @@ volvemos a quedar en la carpeta Gestion y alli se ejecutamos los siguiente coman
  - `ls`: Lista todos los archivos que se encuentran dentro de la ruta
  
  - `git add -A` : Agregar archivos que se van a agregar a nuestro repositorio 
+ 
+ ![alt text](https://github.com/Catalinahdez17/Gestion/blob/master/Git%20add.PNG)
 
 -  `git status` : Permite ver los archivos que seran agregados al repositorio
+
+ ![alt text](https://github.com/Catalinahdez17/Gestion/blob/master/git%20status.PNG)
 
 -  `git commit -m "Commit 1" ` : Guardar copia local de los cambios que se hicieron en el repositorio
 
@@ -62,7 +66,11 @@ volvemos a quedar en la carpeta Gestion y alli se ejecutamos los siguiente coman
 
 -  `git log` : Ver los commits que se han hecho recientemente 
 
+![alt text](https://github.com/Catalinahdez17/Gestion/blob/master/git%20log.PNG)
+
 -  `git push ` : Subir cambios al repostorio
+
+![alt text](https://github.com/Catalinahdez17/Gestion/blob/master/git%20push.PNG)
 
 -  `git pull` : Descargar los cambios recientes que se le han hechos al repositorio
 
