@@ -33,3 +33,15 @@
 -  `git push ` : Subir cambios al repostorio
 
 -  `git pull` : Descargar los cambios recientes que se le han hechos al repositorio
+
+4. **creacion de usuerio y correo**
++git config --global user.name "Catalinahdez17"
++git config --global user.email catalinahdez1246@gmail.com  loguearse
+
+5. **creacion de carpetas**
++mkdir Gestión
++cd Gestion/
+**archivo de texto**
++ **vi index.txt** alli editamos el archivo con "a", guardamos los cambios con :w despues de esto salimos con :wq
+
+
