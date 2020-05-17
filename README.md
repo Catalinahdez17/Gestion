@@ -49,9 +49,9 @@
 * en la misma carpeta Gestión creamos un archivo de texto INDEX, y una carpeta llamada CH y dentro de esta un archivo de texto llamado CH.
 
 **creacion de carpeta CH**
-+mkdir CH
-+cd CH
-+vi CH
+- mkdir CH
+- cd CH
+- vi CH
  
 Salimos de esta carpeta con  el comando cd ..
 
