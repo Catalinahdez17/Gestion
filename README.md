@@ -43,6 +43,8 @@ volvemos a quedar en la carpeta Gestion y alli se ejecutamos los siguiente coman
 5- ***Resumen comandos empleados***
    
  - `git clone`: Clona el repositorio en X dirección, en este caso en la ruta C:/Users/Angelica/Documents/GITHUB/
+ 
+ ![alt text](https://github.com/Catalinahdez17/Gestion/blob/master/git%20clone.PNG)
    
  - `git config --global user.name` y `git config --global user.email` : Estos son parametros necesarios globalmente 
     
