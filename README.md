@@ -91,14 +91,14 @@ volvemos a quedar en la carpeta Gestion y alli se ejecutamos los siguiente coman
 
 -  `git pull` : Descargar los cambios recientes que se le han hechos al repositorio
 
-7- ***Verificación de carpetas***
+6- ***Verificación de carpetas***
 
   Una vez se halla empleado el comando `git push `, es posible verificar que las carpetas creadas se hayan subido exitosamente al repositorio "Gestion", como se muestra a continuación 
 
 ![alt text](https://github.com/Catalinahdez17/Gestion/blob/master/ch.PNG)
 ![alt text](https://github.com/Catalinahdez17/Gestion/blob/master/index.PNG)
 
-6- ***Comandos mas utilizados en github***
+7- ***Comandos mas utilizados en github***
 -	**git help** Muestra una lista con los comandos más utilizados en GIT.
 
 -	**git init** Podemos ejecutar ese comando para crear localmente un repositorio con GIT y así utilizar todo el funcionamiento que GIT ofrece
