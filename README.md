@@ -1,11 +1,5 @@
 # Gestion
 ## **Operaciones básicas de adminitración de repositorios**
-  
-1- ***Conceptos básicos***
-  
- - **Repositorio**: Es un espacio donde se almacenan distintas cosas. Se puede guardar material fisico o simbólico, pero en este caso se almacena información digital.  
-   
-- **Git**: Gestiona el repositorio y añade datos dentro del repositorio trabajado. Es facil de usar y permite multiples flujos de trabajo.
 
 # Para que sirve el repositorio en github
 
@@ -14,8 +8,13 @@
 - Además de eso, puedes contribuir a mejorar el software de los demás. Para poder alcanzar esta meta, GitHub provee de funcionalidades para hacer un fork y solicitar pulls.
 
 - Realizar un fork es simplemente clonar un repositorio ajeno (genera una copia en tu cuenta), para eliminar algún bug o modificar cosas de él. Una vez realizadas tus modificaciones puedes enviar un pull al dueño del proyecto. Éste podrá analizar los cambios que has realizado fácilmente, y si considera interesante tu contribución, adjuntarlo con el repositorio original.
-
-    
+  
+1- ***Conceptos básicos***
+  
+ - **Repositorio**: Es un espacio donde se almacenan distintas cosas. Se puede guardar material fisico o simbólico, pero en este caso se almacena información digital.  
+   
+- **Git**: Gestiona el repositorio y añade datos dentro del repositorio trabajado. Es facil de usar y permite multiples flujos de trabajo.
+  
 2- ***Procedimiento***
   + Una vez creado el repositorio, copiamos la dirección de nuestro repositorio, esta se encuentra en la parte superior, en *"clone or download"*. Copiamos la dirección https://github.com/Catalinahdez17/Gestion.git: e ingresamos a git y utilizamos el comando `git clone`seguido del enlace.
 
@@ -38,7 +37,7 @@
 -  `cd CH/`
 -  `vi CH.txt`
  
-Salimos de esta carpeta con  el comando cd ..
+Salimos de esta carpeta con  el comando `cd ..`
 
 volvemos a quedar en la carpeta Gestion y alli se ejecutamos los siguiente comandos 
 
@@ -93,17 +92,17 @@ volvemos a quedar en la carpeta Gestion y alli se ejecutamos los siguiente coman
 -  `git pull` : Descargar los cambios recientes que se le han hechos al repositorio
 
 
-**comandos mas utilizados en github**
+**Comandos mas utilizados en github**
 -	**git help** Muestra una lista con los comandos más utilizados en GIT.
 
 -	**git init** Podemos ejecutar ese comando para crear localmente un repositorio con GIT y así utilizar todo el funcionamiento que GIT ofrece
 -	**git add + path** Agrega al repositorio los archivos que indiquemos.
 -	**git checkout –b** Crea un nuevo branch y automáticamente GIT se cambia al branch creado, clonando el branch desde donde ejecutamos el comando.
 -	**git branch** Nos muestra una lista de los branches que existen en nuestro repositorio.
--	**git checkout** nombre de branch Sirve para moverse entre branches, en este caso vamos al branch que indicamos en el comando.
--	**git merge** nombre de branch Hace un merge entre dos branches, en este caso la dirección del merge sería entre el branch que indiquemos en el comando, y el branch donde estemos ubicados.
--	**git push origin** nombre de branch  Luego de que hicimos un git commit, si estamos trabajando remotamente, este comando va a subir los archivos al repositorio remoto, específicamente al branch que indiquemos.
--	**git pull origin** nombre de branch  Hace una actualización en nuestro branch local, desde un branch remoto que indicamos en el comando.
+-	**git checkout** Nombre de branch Sirve para moverse entre branches, en este caso vamos al branch que indicamos en el comando.
+-	**git merge** Nombre de branch Hace un merge entre dos branches, en este caso la dirección del merge sería entre el branch que indiquemos en el comando, y el branch donde estemos ubicados.
+-	**git push origin** Nombre de branch  Luego de que hicimos un git commit, si estamos trabajando remotamente, este comando va a subir los archivos al repositorio remoto, específicamente al branch que indiquemos.
+-	**git pull origin** Nombre de branch  Hace una actualización en nuestro branch local, desde un branch remoto que indicamos en el comando.
 
 
 
