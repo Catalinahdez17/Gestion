@@ -62,6 +62,8 @@ volvemos a quedar en la carpeta Gestion y alli se ejecutamos los siguiente coman
 
 -  `git push ` : Subir cambios al repostorio
 
+[img1] : C:\Users\Angelica\Pictures\img #Git push"
+
 -  `git pull` : Descargar los cambios recientes que se le han hechos al repositorio
 
 
