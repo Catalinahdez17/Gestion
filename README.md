@@ -52,7 +52,11 @@ volvemos a quedar en la carpeta Gestion y alli se ejecutamos los siguiente coman
     
  - `mkdir` : Se crea una carpeta 
  
+ ![alt text](https://github.com/Catalinahdez17/Gestion/blob/master/Mkdir.PNG)
+ 
  - `cd Ruta del proyecto/` : Se ingresa a la carpeta o ruta establecida
+ 
+ ![alt text](https://github.com/Catalinahdez17/Gestion/blob/master/CD.PNG)
  
  - `ls`: Lista todos los archivos que se encuentran dentro de la ruta
  ![alt text](https://github.com/Catalinahdez17/Gestion/blob/master/ls.PNG)
