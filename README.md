@@ -55,4 +55,13 @@
  
 Salimos de esta carpeta con  el comando cd ..
 
+volvemos a quedar en la carpeta Gestion y alli se ejecutamos los siguiente comandos 
+
+- git add -A: 
+- git status
+- git commit -m "Commit 1"
+- git log 
+- git push
+- git pull
+
 
