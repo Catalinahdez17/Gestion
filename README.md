@@ -36,11 +36,13 @@
 
 4. **creacion de usuerio y correo**
 +git config --global user.name "Catalinahdez17"
+
 +git config --global user.email catalinahdez1246@gmail.com  loguearse
 
 5. **creacion de carpetas**
 +mkdir Gestión
 +cd Gestion/
+
 **archivo de texto**
 + **vi index.txt** alli editamos el archivo con "a", guardamos los cambios con :w despues de esto salimos con :wq
 
