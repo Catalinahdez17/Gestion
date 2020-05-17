@@ -1,7 +1,7 @@
 # Gestion
 ## **Operaciones básicas de adminitración de repositorios**
 
-# Para que sirve el repositorio en github
+# ***Para que sirve el repositorio en github***
 
 - GitHub aloja tu repositorio de código y te brinda herramientas muy útiles para el trabajo en equipo, dentro de un proyecto.
 
@@ -32,7 +32,7 @@
 
 * En la misma carpeta Gestión creamos un archivo de texto INDEX, y una carpeta llamada CH y dentro de esta un archivo de texto llamado CH.
 
-**creacion de carpeta CH**
+***Creación de carpeta CH***
 - `mkdir CH`
 -  `cd CH/`
 -  `vi CH.txt`
@@ -79,7 +79,7 @@ volvemos a quedar en la carpeta Gestion y alli se ejecutamos los siguiente coman
 
 -  `git commit -m "Commit 1" ` : Guardar copia local de los cambios que se hicieron en el repositorio
 
-![alt text](https://github.com/Catalinahdez17/Gestion/blob/master/git%20commit%201.PNG)
+![alt text](https://github.com/Catalinahdez17/Gestion/blob/master/Git%20commit%20si.PNG)
 
 -  `git log` : Ver los commits que se han hecho recientemente 
 
@@ -91,8 +91,14 @@ volvemos a quedar en la carpeta Gestion y alli se ejecutamos los siguiente coman
 
 -  `git pull` : Descargar los cambios recientes que se le han hechos al repositorio
 
+7- ***Verificación de carpetas***
 
-**Comandos mas utilizados en github**
+  Una vez se halla empleado el comando `git push `, es posible verificar que las carpetas creadas se hayan subido exitosamente al repositorio "Gestion", como se muestra a continuación 
+
+![alt text](https://github.com/Catalinahdez17/Gestion/blob/master/index.PNG)
+![alt text](https://github.com/Catalinahdez17/Gestion/blob/master/ch.PNG)
+
+6- ***Comandos mas utilizados en github***
 -	**git help** Muestra una lista con los comandos más utilizados en GIT.
 
 -	**git init** Podemos ejecutar ese comando para crear localmente un repositorio con GIT y así utilizar todo el funcionamiento que GIT ofrece
