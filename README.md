@@ -39,7 +39,7 @@
  
 Salimos de esta carpeta con  el comando `cd ..`
 
-volvemos a quedar en la carpeta Gestion y alli ejecutamos los siguiente comandos 
+volvemos a quedar en la carpeta Gestion y allí ejecutamos los siguientes comandos 
 
 - `git add -A`
 - `git status`
