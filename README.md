@@ -8,7 +8,7 @@
 - **Git**: Gestiona el repositorio y añade datos dentro del repositorio trabajado. Es facil de usar y permite multiples flujos de trabajo,
     
 2- ***Procedimiento***
-  + ya creado el repositorio, copiamos la direccion de nuestro repositior en github: https://github.com/Catalinahdez17/Gestion.git: despues de esto ingresamos a git y utilizamos el comando git clone. 
+  + Una vez creado el repositorio, copiamos la dirección de nuestro repositorio, esta se encuentra en la parte superior, en *"clone or download"*. Copiamos la dirección https://github.com/Catalinahdez17/Gestion.git: e ingresamos a git y utilizamos el comando `git clone`seguido del enlace.
 
 3- ***Configuración de usuario y correo***
 - `git config --global user.name "Catalinahdez17"`
