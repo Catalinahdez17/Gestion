@@ -1,7 +1,7 @@
 # Gestion
 # **Operaciones básicas de administración de repositorios**
 
-# ***Para que sirve el repositorio en github***
+## ***Para que sirve el repositorio en github***
 
 - GitHub aloja tu repositorio de código y te brinda herramientas muy útiles para el trabajo en equipo, dentro de un proyecto.
 
