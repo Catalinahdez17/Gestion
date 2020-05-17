@@ -10,7 +10,37 @@
 2- ***Procedimiento***
   + ya creado el repositorio, copiamos la direccion de nuestro repositior en github: https://github.com/Catalinahdez17/Gestion.git: despues de esto ingresamos a git y utilizamos el comando git clone. 
 
-3- **Resumen comandos empleados**
+3- ***Creación de usuario y correo***
+- `git config --global user.name "Catalinahdez17"`
+
+- `git config --global user.email catalinahdez1246@gmail.com`  
+
+4- ***Creación de carpetas***
++ `mkdir Gestión`
++  `cd Gestion/`
+
+***Archivo de texto***
++ ** `vi index.txt`** Allí editamos el archivo con "a", guardamos los cambios con :w despues de esto salimos con :wq
+
+* En la misma carpeta Gestión creamos un archivo de texto INDEX, y una carpeta llamada CH y dentro de esta un archivo de texto llamado CH.
+
+**creacion de carpeta CH**
+- `mkdir CH`
+-  `cd CH/`
+-  `vi CH.txt`
+ 
+Salimos de esta carpeta con  el comando cd ..
+
+volvemos a quedar en la carpeta Gestion y alli se ejecutamos los siguiente comandos 
+
+- `git add -A`
+- `git status`
+- `git commit -m "Commit 1"`
+- `git log`
+- `git push`
+- `git pull`
+
+5- ***Resumen comandos empleados***
    
  - `git clone`: Clona el repositorio en X dirección, en este caso en la ruta C:/Users/Angelica/Documents/GITHUB/
    
@@ -34,34 +64,5 @@
 
 -  `git pull` : Descargar los cambios recientes que se le han hechos al repositorio
 
-4. **creacion de usuerio y correo**
--git config --global user.name "Catalinahdez17"
-
--git config --global user.email catalinahdez1246@gmail.com  loguearse
-
-5. **creacion de carpetas**
-+mkdir Gestión
-+cd Gestion/
-
-**archivo de texto**
-+ **vi index.txt** alli editamos el archivo con "a", guardamos los cambios con :w despues de esto salimos con :wq
-
-* en la misma carpeta Gestión creamos un archivo de texto INDEX, y una carpeta llamada CH y dentro de esta un archivo de texto llamado CH.
-
-**creacion de carpeta CH**
-- mkdir CH
-- cd CH
-- vi CH
- 
-Salimos de esta carpeta con  el comando cd ..
-
-volvemos a quedar en la carpeta Gestion y alli se ejecutamos los siguiente comandos 
-
-- git add -A: 
-- git status
-- git commit -m "Commit 1"
-- git log 
-- git push
-- git pull
 
 
