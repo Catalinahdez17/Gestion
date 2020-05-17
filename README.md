@@ -10,7 +10,7 @@
 2- ***Procedimiento***
   + ya creado el repositorio, copiamos la direccion de nuestro repositior en github: https://github.com/Catalinahdez17/Gestion.git: despues de esto ingresamos a git y utilizamos el comando git clone. 
 
-3- ***Creación de usuario y correo***
+3- ***Configuración de usuario y correo***
 - `git config --global user.name "Catalinahdez17"`
 
 - `git config --global user.email catalinahdez1246@gmail.com`  
