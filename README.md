@@ -83,5 +83,18 @@ volvemos a quedar en la carpeta Gestion y alli se ejecutamos los siguiente coman
 
 -  `git pull` : Descargar los cambios recientes que se le han hechos al repositorio
 
+**comandos mas utilizados en github**
+-	**git help** Muestra una lista con los comandos más utilizados en GIT.
+
+-	**git init** Podemos ejecutar ese comando para crear localmente un repositorio con GIT y así utilizar todo el funcionamiento que GIT ofrece
+-	**git add + path** Agrega al repositorio los archivos que indiquemos.
+-	**git checkout –b** Crea un nuevo branch y automáticamente GIT se cambia al branch creado, clonando el branch desde donde ejecutamos el comando.
+-	**git branch** Nos muestra una lista de los branches que existen en nuestro repositorio.
+-	**git checkout** nombre de branch Sirve para moverse entre branches, en este caso vamos al branch que indicamos en el comando.
+-	**git merge** nombre de branch Hace un merge entre dos branches, en este caso la dirección del merge sería entre el branch que indiquemos en el comando, y el branch donde estemos ubicados.
+-	**git push origin** nombre de branch  Luego de que hicimos un git commit, si estamos trabajando remotamente, este comando va a subir los archivos al repositorio remoto, específicamente al branch que indiquemos.
+-	**git pull origin** nombre de branch  Hace una actualización en nuestro branch local, desde un branch remoto que indicamos en el comando.
+-	
+
 
 
