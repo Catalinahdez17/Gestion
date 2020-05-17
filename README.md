@@ -20,7 +20,7 @@
 +  `cd Gestion/`
 
 ***Archivo de texto***
-+ ** `vi index.txt`** Allí editamos el archivo con "a", guardamos los cambios con :w despues de esto salimos con :wq
++  `vi index.txt` Allí editamos el archivo con "a", guardamos los cambios con :w despues de esto salimos con :wq
 
 * En la misma carpeta Gestión creamos un archivo de texto INDEX, y una carpeta llamada CH y dentro de esta un archivo de texto llamado CH.
 
