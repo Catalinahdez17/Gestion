@@ -47,6 +47,8 @@ volvemos a quedar en la carpeta Gestion y alli se ejecutamos los siguiente coman
  ![alt text](https://github.com/Catalinahdez17/Gestion/blob/master/git%20clone.PNG)
    
  - `git config --global user.name` y `git config --global user.email` : Estos son parametros necesarios globalmente 
+ 
+ ![alt text](https://github.com/Catalinahdez17/Gestion/blob/master/GIT%20GLOBAL.PNG)
     
  - `mkdir` : Se crea una carpeta 
  
