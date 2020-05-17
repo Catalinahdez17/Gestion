@@ -53,6 +53,7 @@ volvemos a quedar en la carpeta Gestion y alli se ejecutamos los siguiente coman
  - `cd Ruta del proyecto/` : Se ingresa a la carpeta o ruta establecida
  
  - `ls`: Lista todos los archivos que se encuentran dentro de la ruta
+ ![alt text](https://github.com/Catalinahdez17/Gestion/blob/master/ls.PNG)
  
  - `git add -A` : Agregar archivos que se van a agregar a nuestro repositorio 
  
